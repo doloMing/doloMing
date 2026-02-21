@@ -29,4 +29,4 @@ jobs:
           plugin_languages_details: percentage,bytes-size
           plugin_languages_threshold: 1%
           plugin_languages_other: yes
-          plugin_languages_ignored: JupyterNotebook
+          plugin_languages_ignored: html, css, jupyter notebook
