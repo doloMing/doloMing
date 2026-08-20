@@ -4,6 +4,5 @@
 ![Editor](https://img.shields.io/badge/Editor-Rust%20Rover-green)
 ![Focus](https://img.shields.io/badge/Focus-System%20%26%20HPC%20%26%20AI-blueviolet)
 ![Focus](https://img.shields.io/badge/Focus-Statistical%20physics-blueviolet)
-
 ![Metrics](/github-metrics.svg)
 
